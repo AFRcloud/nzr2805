@@ -1,4 +1,21 @@
 name = "test123"
 main = "worker.js"
 compatibility_date = "2023-05-26"
-workers_dev = true
+workers_dev = false
+
+routes = [
+
+  { pattern = "cf.nzr2805.site", custom_domain = true },
+  { pattern = "ava.game.naver.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "df.game.naver.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "graph.instagram.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "instagram.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "creativeservices.netflix.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "support.zoom.us.cf.nzr2805.site", custom_domain = true },
+  { pattern = "cache.netflix.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "graph.facebook.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "facebook.com.cf.nzr2805.site", custom_domain = true },
+  { pattern = "engineering.instagram.com.cf.nzr2805.site", custom_domain = true },
+]
