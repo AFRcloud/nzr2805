@@ -19,3 +19,9 @@ routes = [
   { pattern = "facebook.com.cf.nzr2805.site", custom_domain = true },
   { pattern = "engineering.instagram.com.cf.nzr2805.site", custom_domain = true },
 ]
+
+[observability.logs]
+enabled = true
+
+
+
