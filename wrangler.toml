@@ -1,5 +1,5 @@
 name = "test123"
-main = "worker.js"
+main = "_worker.js"
 compatibility_date = "2023-05-26"
 workers_dev = false
 
