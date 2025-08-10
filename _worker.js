@@ -3,7 +3,7 @@ const proxyListURL = 'https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/
 
 let cachedProxyList = [];
 let proxyIP = "";
-let pathprefix = "/afrcloud";
+let pathprefix = "/nzr";
 
 const WS_READY_STATE_OPEN = 1;
 const WS_READY_STATE_CLOSING = 2;
